@@ -1,6 +1,6 @@
 # Meu site praticando
 ```
-Status: Desenvolvimento
+Status: Finalizado
 ```
 # Utilizando
 * HTML
